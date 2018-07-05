@@ -1,0 +1,15 @@
+
+<link rel="stylesheet" type="text/css" href="mycss1.css" />
+
+  <div class="menu">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Post Question</a></li>
+      <li><a href="#">View Project</a></li>
+      <li><a href="#">View answer</a></li>
+      <li><a href="#">Post Assignment</a></li>
+      <li><a href="#">Upload Project</a></li>
+      <li><a href="#">contact</a></li>
+    </ul>
+  </div>
+   <!--login form to be placed here-->

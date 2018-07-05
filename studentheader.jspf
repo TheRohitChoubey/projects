@@ -1,0 +1,8 @@
+<a href="studenthome.jsp">Home</a>
+<a href="studentprofile.jsp">Profile</a>
+<a href="postquestion.jsp">Post Question</a>
+<a href="viewans.jsp">View Ans</a>
+<a href="uploadAssignment.jsp">Upload Assignment</a>
+<a href="signout.jsp">Sign out</a>
+<hr>
+<p>

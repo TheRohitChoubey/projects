@@ -1,0 +1,15 @@
+    
+<link rel="stylesheet" type="text/css" href="mycss1.css" />
+
+  <div class="menu">
+    <ul>
+      <li><a href="studenthome.jsp">Home</a></li>
+      <li><a href="studentprofile.jsp">Profile</a></li>
+      <li><a href="postquestion.jsp">Ask Question</a></li>
+      <li><a href="viewans.jsp">View answer</a></li>
+      <li><a href="uploadAssignment.jsp">Upload Assignment</a></li>
+      <li><a href="signout.jsp">Sign Out</a></li>
+      <li><a href="#">Help</a></li>
+    </ul>
+  </div>
+   <!--login form to be placed here-->

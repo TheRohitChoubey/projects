@@ -1,0 +1,16 @@
+    
+<link rel="stylesheet" type="text/css" href="mycss1.css" />
+
+  <div class="menu">
+    <ul>
+      <li><a href="teacherhome.jsp">Home</a></li>
+      <li><a href="teacherprofile.jsp">Profile</a></li>
+      <li><a href="teacherViewQ.jsp">View Question</a></li>
+      <li><a href="teacherSemSelect.jsp">Post Assignment</a></li>
+      <li><a href="submissions.jsp">Submissions</a></li>
+      <li><a href="signout.jsp">Sign Out</a></li>
+      <li><a href="#">Help</a></li>
+      <li><a href="#">Contact us</a></li>
+    </ul>
+  </div>
+   <!--login form to be placed here-->
